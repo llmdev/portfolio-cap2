@@ -4,7 +4,7 @@ export const Wrapper = styled.nav`
 display: flex;
 justify-content: center;
 align-items: center;
-
+margin: 20px 0px;
   a {
     display: flex;
     align-items: center;
@@ -18,7 +18,7 @@ align-items: center;
    }
 
    li {
-     margin-bottom: 30px;
+     margin-bottom: 20px;
    }
 `
 
