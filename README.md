@@ -1,4 +1,4 @@
-##Projeto Portifólio
+## Projeto Portifólio
 Com base na atividade passada, codamos uma aplicação react com duas telas.
 Clicando em SOBRE, você será redirecionado para a segunda tela, onde será consumida a API do viaCep
 
