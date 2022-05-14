@@ -1,3 +1,9 @@
+## Projeto Portifólio
+Com base na atividade passada, codamos uma aplicação react com duas telas.
+Clicando em SOBRE, você será redirecionado para a segunda tela, onde será consumida a API do viaCep
+
+
+--------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
