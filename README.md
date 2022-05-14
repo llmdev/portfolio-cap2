@@ -1,7 +1,9 @@
 ## Projeto Portifólio
 
 Projeto proposto em curso.
+
 Projeto Mobile First, referente a um portifólio.
+
 Para melhor visualização, usar em modo Responsivo, com frame de mobile.
 Clicando em Contato, você será redirecionado para um Fomrulário de Contato.
 Clicando em SOBRE, você será redirecionado para a segunda tela, onde será consumida a API do viaCep
