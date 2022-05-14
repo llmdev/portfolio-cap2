@@ -32,7 +32,7 @@ const BuscaCEP = styled.div`
   line-height: 25px;
 `
 
-const BotaoLink = styled(Link)`
+export const BotaoLink = styled(Link)`
   display: block;
   text-align: center;
   background-color:${({ theme }) => theme.grey};

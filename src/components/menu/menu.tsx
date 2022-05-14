@@ -21,9 +21,9 @@ export default function Menu() {
           </a>
         </li>
         <li>
-          <a href="">
+          <a href="/contato">
             <img src={rock} />
-            Hobbies
+            Contato
           </a>
         </li>
       </ul>
