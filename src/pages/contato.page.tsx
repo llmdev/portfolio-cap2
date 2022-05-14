@@ -41,6 +41,11 @@ export const Wrapper = styled('div')`
 export const H1 = styled('h1')`
     background-color: #c4c4c4;
     height: 10vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 700;
 
 `
 
@@ -53,6 +58,7 @@ export default function ContatoPage() {
             comentario:'',
         },
         onSubmit: async (values) => {
+            alert("Mensagem enviada com sucesso.")
         },
         validationSchema: ContatoSchema 
       });
