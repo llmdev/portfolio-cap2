@@ -60,7 +60,9 @@ export default function SobrePage() {
   const [endereco, setEndereco] = React.useState<Endereco>();
 
   const buscarCep = () => {
-    fetch(`http://viacep.com.br/ws/05866-970/json/`)
+    fetch(`http://viacep.com.br/ws/05866-970/json/`, {
+      mode: 'cors'
+    })
     .then( data =>  data.json())
     .then( response => setEndereco(response))
   }
